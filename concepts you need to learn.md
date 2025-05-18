@@ -79,7 +79,7 @@ The project integrates all these concepts to create a sophisticated simulation o
 
 ## Reusing a plane once it has reached its destination
 
-Based on my analysis of the provided code files, there is no functionality to reuse a plane for another journey after it has completed its initial flight.
+There is no functionality to reuse a plane for another journey after it has completed its initial flight.
 
 When a plane completes its journey, the following sequence occurs:
 
